@@ -1,0 +1,209 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "アークの森キャンプ場",
+              "weight": "bold",
+              "size": "xs",
+              "wrap": true,
+              "color": "#000000",
+              "margin": "none"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "オートキャンプ場",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "ホームページ",
+                    "uri": "https://www.google.com/maps/place/%E3%82%A2%E3%83%BC%E3%82%AF%E3%81%AE%E6%A3%AE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4/data=!4m7!3m6!1s0x602287b283cb6d95:0x1ea4ff3c04da4d9b!8m2!3d35.7459271!4d140.1342801!16s%2Fg%2F11rzpx3pr0!19sChIJlW3Lg7KHImARm03aBDz_pB4?authuser=0&hl=ja&rclk=1"
+                  },
+                  "style": "link",
+                  "margin": "none",
+                  "color": "#FFFFFF",
+                  "height": "sm",
+                  "offsetEnd": "none"
+                }
+              ],
+              "backgroundColor": "#799D55",
+              "cornerRadius": "lg",
+              "borderWidth": "none"
+            }
+          ],
+          "offsetTop": "none",
+          "offsetBottom": "none",
+          "cornerRadius": "none"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "楽々ガーデン",
+              "weight": "bold",
+              "size": "sm",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "キャンプ場",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "ホームページ",
+                    "uri": "https://www.google.com/maps/place/%E6%A5%BD%E3%80%85%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/@35.5823418,140.1078818,12z/data=!4m10!1m2!2m1!1z44Kt44Oj44Oz44OX5aC0!3m6!1s0x60229721bff1696d:0xdc8d33ea7d220926!8m2!3d35.5823418!4d140.2603171!15sCg_jgq3jg6Pjg7Pjg5floLSSAQpjYW1wZ3JvdW5k4AEA!16s%2Fg%2F11p3c8h8j1?entry=ttu&g_ep=EgoyMDI0MDgyMC4xIKXMDSoASAFQAw%3D%3D"
+                  },
+                  "margin": "none",
+                  "height": "sm",
+                  "style": "link",
+                  "color": "#FFFFFF"
+                }
+              ],
+              "backgroundColor": "#799D55",
+              "cornerRadius": "lg"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "大宮基地 キャンプ場 (Oomiyabase Camp Ground)",
+              "weight": "bold",
+              "size": "sm"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "キャンプ場",
+                      "wrap": true,
+                      "color": "#8c8c8c",
+                      "size": "xs",
+                      "flex": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "13px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "ホームページ",
+                    "uri": "https://www.google.com/maps/place/%E5%A4%A7%E5%AE%AE%E5%9F%BA%E5%9C%B0+%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E5%A0%B4+(Oomiyabase+Camp+Ground)/@35.5985972,140.0216887,12z/data=!4m10!1m2!2m1!1z44Kt44Oj44Oz44OX5aC0!3m6!1s0x60229bd7e2f06729:0xb8d7bf54827cf18d!8m2!3d35.5985972!4d140.174124!15sCg_jgq3jg6Pjg7Pjg5floLSSAQpjYW1wZ3JvdW5k4AEA!16s%2Fg%2F11pcp95263?entry=ttu&g_ep=EgoyMDI0MDgyMC4xIKXMDSoASAFQAw%3D%3D"
+                  },
+                  "margin": "none",
+                  "height": "sm",
+                  "style": "link",
+                  "color": "#FFFFFF"
+                }
+              ],
+              "backgroundColor": "#799D55",
+              "cornerRadius": "lg"
+            }
+          ]
+        }
+      }
+    ]
+  }
